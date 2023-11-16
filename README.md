@@ -1,90 +1,119 @@
-# Welcome to GitHub
+# Hi 👋 it is Rafa here (portfolio under construction).
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+**My full name:** Rafaela Orenga Panizza
 
-## Repositories
+**My socials:** [LinkedIn](https://www.linkedin.com/in/rafaelapanizza/)
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+## Welcome to My Data Science and Machine Learning Portfolio!
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+🚀 Hello and welcome! I'm thrilled to have you here exploring my journey in the realms of data science and machine learning. 
+In this repository, you'll discover a collection of my research projects, including their **published articles**, **datasets**, and **codes**.
 
-## Describe your project
+Feel free to explore. Your feedback is valuable, so don't hesitate to reach out.
 
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+Happy coding! 🚀📊💻
 
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+## Research Projects with Code
 
-## Your first website
+### "Labeling construction, renovation, and demolition waste through Segment Anything Model (SAM)"
 
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
+**Authors:** Rafaela Orenga Panizza, Amr S Allam, Aparimit Kasliwal & Mazdak Nik-Bakht
 
-[Learn more about GitHub Pages](https://pages.github.com/)
+This paper will be presented at the [CRC2024 Conference](https://cisummit-crc.asce.org/)
 
-## Rename this repository to publish your site
+Dataset and code coming soon!!
 
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
+### "Extraction of energy-influential parameters from building facade images through Google Street View"
 
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
+**Authors:** Rafaela Orenga Panizza & Mazdak Nik-Bakht
 
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
+[Find the paper and presentation here](https://ec-3.org/publications/conference/paper/?id=EC32023_198)
 
-Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
+[Find the dataset and codes here]()
 
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
+### "Design recommender system for building energy performance"
 
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
+**Authors:** Rafaela Orenga Panizza, Seyed Mahyar Mousavi Mohammadi, Mohammadjavad Anbia & Mazdak Nik-Bakht
 
-Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
+[Find the paper here!](https://www.researchgate.net/publication/375635409_Design_Recommender_System_for_Building_Energy_Performance)
 
-## Making your first edit
+[Find the dataset and codes here]()
 
-When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
+## Datasets Generated
 
-With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
+### "Correlation and sensitivity of building economy and energy consumption to design parameters"
 
-## Practice: Customize your first GitHub website by writing HTML code
+**Author:** Rafaela Orenga Panizza 
 
-Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
+**Master's Thesis**
 
-Let’s start with this template:
+[Find the report here](https://spectrum.library.concordia.ca/id/eprint/986732/)
 
-```
-<p>Hello World! I’m [username]. This is my website!</p>
-```
+[Dataset generated during this research]()
 
-To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
+## Research Projects: Without Code or Not for Dissemination
 
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
+### "SWOT analysis of the Deconstruction of the built environment"
+
+**Authors:** Amr S Allam, Rafaela Orenga Panizza & Mazdak Nik-Bakht
+
+**Year:** 2023
+
+[Find the paper here](https://www.researchgate.net/publication/374617652_A_SWOT_Analysis_for_Deconstruction_of_the_Canadian_Built_Environment)
+
+### "On the invariance of energy influential design parameters in a cold climate–a meta-level sensitivity analysis based on the energy, economy, and building characteristics"
+
+**Authors:** Rafaela Orenga Panizza & Mazdak Nik-Bakht
+
+**Year:** 2022
+
+[Find the paper here](https://www.tandfonline.com/doi/full/10.1080/17512549.2021.1975559)
+
+### "Economy-energy trade off automation–A decision support system for building design development"
+
+**Authors:** Mazdak Nik-Bakht, Rafaela Orenga Panizza, Philippe Hudon, Pierre-Yves Chassain & Masoud Bashari
+
+**Year:** 2020
+
+[Find the paper here](https://www.sciencedirect.com/science/article/pii/S2352710219313403)
+
+### "Ranking energy influential parameters - How building type affects the parameters' influence"
+
+**Authors:** Rafaela Orenga Panizza & Mazdak Nik-Bakht
+
+**Year:** 2020
+
+[Find the paper here](https://d1wqtxts1xzle7.cloudfront.net/81088193/d-bsc20-c050-libre.pdf?1645370909=&response-content-disposition=inline%3B+filename%3DRanking_Energy_Influential_Parameters_Ho.pdf&Expires=1699993105&Signature=Fl-wPVTCQvSyVXBM6l48W2ECb~J-xau7zFHIbSpWsYWlz11BpyyRAHjfYCdNM6pABOw83Og-zlngmpeiMGupoBL83HsO7QunLq8gv0zJvHa2dHQG5Maa5p2lVJc7rUz0DGqr4teIhZGXgZ-4mWWZWzgsXMGJs4UA2TL28U4L~HsDwyzs6aQRy7CMr7gEQ1MwQOplSXxjMXE08Eq7H0yD345KYjYT68BLsNzZWRwoAPt1eJQC1DDtrUDj690LxWkkT10B3PsIZt~1xVXtCUjtVn0NJl5M6X6X7zLu8EVYgKz9oGWvIxsh-xi5jAY9xB7qPjvw5N982U7QdaRzOha7uQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+
+### "Correlation and sensitivity of building economy and energy consumption to design parameters"
+
+**Authors:** Rafaela Orenga Panizza
+
+**Year:** 2020
+
+[Find the paper here](https://spectrum.library.concordia.ca/id/eprint/986732/)
 
 
-Delete this placeholder line:
+### "Towards a universal ranking system for design parameters’ impact on buildings’ lifecycle energy"
 
-```
-<p>Welcome to your first GitHub Pages website!</p>
-```
+**Authors:** Rafaela Orenga Panizza & Mazdak Nik-Bakht
 
-Then, paste the template to line 15 and fill in the blanks.
+**Year:** 2019
 
-<img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
+[Find the paper here](https://iopscience.iop.org/article/10.1088/1757-899X/609/7/072039/meta)
 
+### "Would Quebec reach the electric vehicle adoption target? - A game theory approach"
 
-When you’re done, scroll down to the `Commit changes` section near the bottom of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
+**Authors:** Rafaela Orenga Panizza & Mazdak Nik-Bakht
 
+**Year:** 2019
 
-<img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
+[Find the paper here](https://www.csce.ca/elf/apps/CONFERENCEVIEWER/conferences/2019/pdfs/PaperPDFversion_227_0301120349.pdf)
 
-Once you click `Commit changes`, your changes will automatically be published on your GitHub Pages website. Refresh the page to see your new changes live in action.
+### "Conceptual cost models for energy simulation in building projects"
 
-:tada: You just made your first commit! :tada:
+**Authors:** Leila Rafati Sokhangoo, Rafaela Orenga Panizza, Mazdak Nik-Bakht & Sang Hyeok Han
 
-## Extra Credit: Keep on building!
+**Year:** 2019
 
-Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://myoctocat.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
-
-Want to add even more code and fun styles to your GitHub Pages website? [Follow these instructions](https://github.com/github/personal-website) to build a fully-fledged static website.
-
-![octocat](./images/create-octocat.png)
-
-## Everything you need to know about GitHub
-
-Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+[Find the paper here](https://csce.ca/elf/apps/CONFERENCEVIEWER/conferences/2019/pdfs/PaperPDFversion_236_0422053155.pdf)
